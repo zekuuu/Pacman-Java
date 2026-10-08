@@ -46,7 +46,7 @@ A modern, feature-rich Pacman-inspired game with a butterfly and bee theme, writ
    - Right-click on an empty space on the Desktop and select `Open in Terminal` or `Open in PowerShell`.
    - Run the following command:
      ```sh
-     git clone https://github.com/xKurty06/Pacman-Java.git
+     git clone https://github.com/zekuuu/Pacman-Java.git
      ```
    - This will create a `Pacman-Java` folder on your Desktop.
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse, VS Code with Java extensions).
